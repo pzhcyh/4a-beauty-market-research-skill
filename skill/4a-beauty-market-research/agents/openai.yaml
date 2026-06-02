@@ -1,0 +1,8 @@
+interface:
+  display_name: "4A Beauty Market Research"
+  short_description: "Consulting-grade beauty market, competitor, and positioning research."
+  default_prompt: "Use $4a-beauty-market-research to research this beauty brand, define its positioning, analyze competitors, and create a go-to-market strategy report."
+
+policy:
+  allow_implicit_invocation: true
+
